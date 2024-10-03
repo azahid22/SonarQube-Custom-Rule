@@ -1,0 +1,9 @@
+[
+  {
+    "key": "NoClickRule",
+    "name": "Prohibit .click() method on WebDriver and JavaScriptExecutor",
+    "severity": "MAJOR",
+    "description": "Avoid calling the .click() method on instances of WebDriver or JavaScriptExecutor.",
+    "tags": ["bad-practice"]
+  }
+]
